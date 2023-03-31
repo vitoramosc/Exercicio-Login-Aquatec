@@ -51,7 +51,7 @@ body {
 }
 
 .banner {
-    height: fit-content;
+    height: 430px;
     padding: 40px 0;
     color: white;
     background-image: url("../aquaTech/assets/bg-jelly-fish-para_outras_pags.png");
